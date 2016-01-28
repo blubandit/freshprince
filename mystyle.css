@@ -1,0 +1,14 @@
+h1 {
+	color: pink;
+}
+body {
+      color: white;
+      background: black; 
+}
+p {
+	text-align: center;
+	font: italic normal 1.4em georgia;
+}
+a {
+	color: blue;
+}
